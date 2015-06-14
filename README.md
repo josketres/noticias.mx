@@ -17,4 +17,4 @@ Lista de sitios de noticias en México
 * Resumen 24/7 (sin embargo tv) - [youtube](https://www.youtube.com/playlist?list=PL90SQ92rpJkABy_sbHxU7_Rib3iQ6RsdF) - semanal - 7 min.
 * Mientras tanto en Mexico - [youtube](https://www.youtube.com/user/MTenMEXICO/featured) - semanal - 8 min.
 * El pulso de la Republica - [youtube](https://www.youtube.com/channel/UCK0_zBeybLuyXbOcHp7wmJA) - 2 veces por semana - 15 a 20 min
-* Denise Dresser en es la hora de opinar (foro tv) - [noticieros televisa](http://noticieros.televisa.com/foro-tv-es-la-hora-de-opinar/)
+* Denise Dresser en es la hora de opinar (foro tv) - [noticieros televisa](http://noticieros.televisa.com/foro-tv-es-la-hora-de-opinar/) - cada dos semanas - 30 min ?

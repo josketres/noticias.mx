@@ -11,4 +11,5 @@ Lista de sitios de noticias en México
 
 ## Programas de analisis politico (online)
 * Primer Plano (Once TV) - [youtube](https://www.youtube.com/playlist?list=PLrFkZrRQk9nmt__lwBI71or0CfyRFA1yG) - semanal
-* El Colegio de Mexico - [youtube](https://www.youtube.com/user/VideosColmex/featured)
+* El Colegio de Mexico - [youtube](https://www.youtube.com/user/VideosColmex/featured) - ?
+* Videochat de la Jornada - [youtube](https://www.youtube.com/playlist?list=PL9iIHaq4XPPqvtjR_GRi52iy3QKQNqgt3)

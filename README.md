@@ -7,3 +7,7 @@ Lista de sitios de noticias en México
 * http://www.animalpolitico.com/
 * http://www.nexos.com.mx/
 * http://www.m-x.com.mx/
+
+
+## Programas de analisis politico (online)
+* Primer Plano (Once TV) - [youtube](https://www.youtube.com/playlist?list=PLrFkZrRQk9nmt__lwBI71or0CfyRFA1yG) - semanal

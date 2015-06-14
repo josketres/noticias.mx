@@ -14,3 +14,4 @@ Lista de sitios de noticias en México
 * El Colegio de Mexico - [youtube](https://www.youtube.com/user/VideosColmex/featured) - ?
 * Videochat de la Jornada - [youtube](https://www.youtube.com/playlist?list=PL9iIHaq4XPPqvtjR_GRi52iy3QKQNqgt3) - semanal (aproximadamente)
 * Resumen semanal de noticias (canal del congreso) - [youtube](https://www.youtube.com/playlist?list=PLuH8BWke2UzDWOAkRHj_IsYblRs_-l1Tb) - semanal - 30 min.
+* Resumen 24/7 (sin embargo tv) - [youtube](https://www.youtube.com/playlist?list=PL90SQ92rpJkABy_sbHxU7_Rib3iQ6RsdF) - 7 min.

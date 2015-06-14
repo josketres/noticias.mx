@@ -18,3 +18,4 @@ Lista de sitios de noticias en México
 * Mientras tanto en Mexico - [youtube](https://www.youtube.com/user/MTenMEXICO/featured) - semanal - 8 min.
 * El pulso de la Republica - [youtube](https://www.youtube.com/channel/UCK0_zBeybLuyXbOcHp7wmJA) - 2 veces por semana - 15 a 20 min
 * Denise Dresser en es la hora de opinar (foro tv) - [noticieros televisa](http://noticieros.televisa.com/foro-tv-es-la-hora-de-opinar/) - cada dos semanas - 30 min ?
+* Carmen Aristegui (CNN) - [cnn](http://blogs.cnnmexico.com/aristegui/) - diario (extracto) - 30 min ?
